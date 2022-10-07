@@ -1,0 +1,92 @@
+[
+  {
+    "image": "assets/images/nft1.png",
+    "avatar": "assets/images/avatar1.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 79572296,
+    "price": 233.45,
+    "times": 1814400,
+    "favorites": 21
+  },
+  {
+    "image": "assets/images/nft2.png",
+    "avatar": "assets/images/avatar2.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 456.28,
+    "price": 33.45,
+    "times": 0,
+    "favorites": 12
+  },
+  {
+    "image": "assets/images/nft3.png",
+    "avatar": "assets/images/avatar3.svg",
+    "title": "Deep Learning Goril ...",
+    "description": "Great Apes Collection",
+    "bids": 5456.28,
+    "price": 233.45,
+    "times": 0,
+    "favorites": 21
+  },
+  {
+    "image": "assets/images/nft4.png",
+    "avatar": "assets/images/avatar3.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 56.28,
+    "price": 3.45,
+    "times": 0,
+    "favorites": 21
+  },
+  {
+    "image": "assets/images/nft5.png",
+    "avatar": "assets/images/avatar1.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 79572296,
+    "price": 233.45,
+    "times": 1695,
+    "favorites": 21
+  },
+  {
+    "image": "assets/images/nft6.png",
+    "avatar": "assets/images/avatar3.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 65546.28,
+    "price": 33.45,
+    "times": 1814400,
+    "favorites": 21
+  },
+  {
+    "image": "assets/images/nft7.png",
+    "avatar": "assets/images/avatar1.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 79572296,
+    "price": 233.45,
+    "times": 1814400,
+    "favorites": 21
+  },
+  {
+    "image": "assets/images/nft8.png",
+    "avatar": "assets/images/avatar2.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 79572296,
+    "price": 233.45,
+    "times": 0,
+    "favorites": 12
+  },
+  {
+    "image": "assets/images/nft9.png",
+    "avatar": "assets/images/avatar1.svg",
+    "title": "Gratification Corner",
+    "description": "Bridge Connection",
+    "bids": 79572296,
+    "price": 233.45,
+    "times": 8895,
+    "favorites": 21
+  }
+]
